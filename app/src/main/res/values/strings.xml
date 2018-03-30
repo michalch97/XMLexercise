@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">XMLexercise</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="autor_name">Autorzy:\nMichał Chmielewski\nBartłomiej Ciesielski</string>
+    <string name="program_name">XMLexercise</string>
+    <string name="description">Stopy procentowe 1998 - 2015</string>
+    <string name="welcome_button_text">Start</string>
+    <string name="about">O programie</string>
+    <string name="start_screen">Ekran startowy</string>
+    <string name="poli">Politechnika Łódzka\nWFTIMS\nTelekomunikacja\n2018</string>
+    <string name="back">Powrót</string>
+    <string name="search_button">Szukaj</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
